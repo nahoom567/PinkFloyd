@@ -2,7 +2,8 @@
 Pink Floyd was a British rock band that operated from the late 1960s to the mid-1990s. It is considered one of the most influential and successful bands in the history of popular music, and one of the only ones from the progressive rock genre that has gained popularity among the general public as well.
 
 This is a relatively small and old project that does not showcase my current skills and knowledge in python, however it is pretty simple to understand and use.
-It includes a server and client:
+The problem with uploading other python projects is that they are individualy small projects that focuses on different part of cyber, including cryptography, reversing, scripting, expoits, web and so much more.  
+This project includes a server and client:
 
 Description of the server side - server.py
 
