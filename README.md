@@ -5,14 +5,14 @@ This is a relatively small and old project that does not showcase my current ski
 The problem with uploading other python projects is that they are individualy small projects that focuses on different part of cyber, including cryptography, reversing, scripting, expoits, web and so much more.  
 This project includes a server and client:
 
-Description of the server side - server.py
+### Description of the server side - server.py
 
 The purpose of the server is to provide information about the band Pink Floyd. The information includes all the albums, the songs, the length of each song, and the lyrics of all the songs.
 The server works against a database saved in the file Pink_Floyd_DB.txt
 After connecting to it, the server will send a short Welcome message to the client and wait for the client's choice of command.
 The server will respond to the client according to his request and then wait for another command, until a disconnection message is sent by the client.
 
-Description of the client side - client.py
+### Description of the client side - client.py
 
 The client will connect to the server based on an address and port that will be kept constant in the code.
 After a successful login, the client will present the user with a menu of all available commands.
